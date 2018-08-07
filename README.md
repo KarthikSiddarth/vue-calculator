@@ -1,3 +1,5 @@
+[Tutorial Link](https://www.youtube.com/watch?v=m1_ih43p24s)
+
 # vue-calculator
 
 ## Project setup
@@ -19,5 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-[Tutotial Link](https://www.youtube.com/watch?v=m1_ih43p24s)
